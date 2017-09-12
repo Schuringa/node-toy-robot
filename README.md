@@ -50,10 +50,13 @@ Constraints
 Setup and running the app
 -----------
 - Clone git repo
-- Install dependencies with
-  'npm install'
-- run with 
-  'node index.js'
+- Install dependencies with:
+
+    npm install
+
+- run with:
+
+    node index.js
 
 Example Input and Output
 ------------------------
