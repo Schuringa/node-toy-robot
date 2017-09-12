@@ -47,6 +47,14 @@ Constraints
   includes the initial placement of the toy robot.
 - Any move that would cause the robot to fall must be ignored.
 
+Setup and running the app
+-----------
+- Clone git repo
+- Install dependencies with
+  'npm install'
+- run with 
+  'node index.js'
+
 Example Input and Output
 ------------------------
 
@@ -83,14 +91,3 @@ Expected output
 
     3,3,NORTH
 
-Deliverables
-------------
-
-Please provide your source code, and any test code/data you using in
-developing your solution.
-
-Please engineer your solution to a standard you consider suitable for
-production. It is not required to provide any graphical output showing the
-movement of the toy robot.
-
-Please do not put your name in any of the submitted code since this makes it harder for us to review your submission anonymously.
